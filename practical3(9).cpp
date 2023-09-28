@@ -7,8 +7,8 @@ private:
     int num_2;
 public:
     void input() {
-        cout<<"Pinak viradiya"<<endl;
-        cout<<"220130318014"<<endl;
+        cout<<"	cout<<"zalavadiya shyam"<<endl;"<<endl;
+        cout<<"220130318015"<<endl;
         cout << "Enter first number: ";
         cin >> num_1;
         cout << "Enter second number: ";
