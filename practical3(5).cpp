@@ -8,7 +8,7 @@ private:
 
 public:
     void get_distance() {
-        cout<<"Pinak viradiya"<<endl;
+        cout<<"	cout<<"zalavadiya shyam"<<endl;"<<endl;
         cout<<"220130318014"<<endl;
         cout << "Enter feet: ";
         cin >> feet;
