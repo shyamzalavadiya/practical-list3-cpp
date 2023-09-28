@@ -8,8 +8,8 @@ private:
 
 public:
     void displaydata() {
-    	cout<<"Pinak viradiya"<<endl;
-    	cout<<"220130318014";
+    	cout<<"	cout<<"zalavadiya shyam"<<endl;"<<endl;
+    	cout<<"220130318015";
         cout << "Number: " << number << endl;
         cout << "Cost: " << cost << endl;
     }
