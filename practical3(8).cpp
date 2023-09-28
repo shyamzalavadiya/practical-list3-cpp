@@ -10,8 +10,8 @@ public:
      Account(int no, double bal, int code) : acc_no(no), balance(bal), branch_code(code) {}
 
     void display() {
-        cout<<"Pinak viradiya"<<endl;
-        cout<<"220130318014"<<endl;
+        cout<<"	cout<<"zalavadiya shyam"<<endl;"<<endl;
+        cout<<"220130318015"<<endl;
         cout << "Account Number: " << acc_no << endl;
         cout << "Balance: $" << balance << endl;
         cout << "Branch Code: " << branch_code << endl;
