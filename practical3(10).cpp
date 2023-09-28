@@ -25,8 +25,8 @@ public:
 
 int main() {
     int a, b, c;
-     cout<<"Pinak viradiya"<<endl;
-     cout<<"220130318014"<<endl;
+     cout<<"	cout<<"zalavadiya shyam"<<endl;"<<endl;
+     cout<<"220130318015"<<endl;
     cout << "Enter three numbers: ";
     cin >> a >> b >> c;
 
