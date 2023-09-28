@@ -8,8 +8,8 @@ private:
 
 public:
     void get_details() {
-        cout<<"Pinak viradiya"<<endl;
-       cout<<"220130318014"<<endl;
+        cout<<"	cout<<"zalavadiya shyam"<<endl;"<<endl;
+       cout<<"220130318015"<<endl;
         std::cout << "Enter name: ";
         std::getline(std::cin, name);
         
