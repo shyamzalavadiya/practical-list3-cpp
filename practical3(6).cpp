@@ -10,7 +10,7 @@ public:
 };
 
 void Shape::display_shape() {
-    cout<<"Pinak viradiya"<<endl;
+    cout<<"zalavadiya shyam"<<endl;
     cout<<"220130318015"<<endl;
     cout << "Height: " << height <<endl<<"Base: " << base << endl;
 }
