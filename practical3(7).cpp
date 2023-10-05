@@ -27,7 +27,7 @@ public:
 int main() {
     Employee emp1;  
     
-     emp1.setDetails("pinak", 30, 50000.50);
+     emp1.setDetails("shyam", 30, 50000.50);
 
       emp1.displayDetails();
 
