@@ -15,7 +15,7 @@ int main() {
 cout<<"	cout<<"zalavadiya shyam"<<endl;"<<endl;
 cout<<"220130318015"<<endl;
  
-     emp1.emp_name = "pinak";
+     emp1.emp_name = "shyam";
     emp1.emp_code = 1002;
     emp1.emp_salary = 50000.0;
     emp1.emp_branch = "IT Department";
